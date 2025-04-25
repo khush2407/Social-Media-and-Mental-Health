@@ -1,1 +1,2 @@
-# Social-Media-and-Mental-Health
+# SocialMediaOnMentalHealth
+MLProject-SocialMediaOnMentalHealth
